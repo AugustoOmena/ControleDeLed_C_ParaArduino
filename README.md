@@ -1,2 +1,3 @@
-# OmenaUNO
-Nosso Projeto do Senai!
+<h1 align="center">OmenaUNO</h1> <p align="center"> <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt=".NET Framework" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> </p>
+OmenaUNO é um aplicativo Windows Forms projetado para interagir com placas Arduino, permitindo o controle de dispositivos conectados e a leitura de sensores de forma intuitiva. Este projeto é ideal para automação, prototipagem e aprendizado de IoT.
+
